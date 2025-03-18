@@ -1,0 +1,28 @@
+:root {
+    --ctp-mocha-rosewater: hsl(10, 56%, 91%);
+    --ctp-mocha-flamingo: hsl(0, 59%, 88%);
+    --ctp-mocha-pink: hsl(316, 72%, 86%);
+    --ctp-mocha-mauve: hsl(267, 84%, 81%);
+    --ctp-mocha-red: hsl(343, 81%, 75%);
+    --ctp-mocha-maroon: hsl(350, 65%, 77%);
+    --ctp-mocha-peach: hsl(23, 92%, 75%);
+    --ctp-mocha-yellow: hsl(41, 86%, 83%);
+    --ctp-mocha-green: hsl(115, 54%, 76%);
+    --ctp-mocha-teal: hsl(170, 57%, 73%);
+    --ctp-mocha-sky: hsl(189, 71%, 73%);
+    --ctp-mocha-sapphire: hsl(199, 76%, 69%);
+    --ctp-mocha-blue: hsl(217, 92%, 76%);
+    --ctp-mocha-lavender: hsl(232, 97%, 85%);
+    --ctp-mocha-text: hsl(226, 64%, 88%);
+    --ctp-mocha-subtext1: hsl(227, 35%, 80%);
+    --ctp-mocha-subtext0: hsl(228, 24%, 72%);
+    --ctp-mocha-overlay2: hsl(228, 17%, 64%);
+    --ctp-mocha-overlay1: hsl(230, 13%, 55%);
+    --ctp-mocha-overlay0: hsl(231, 11%, 47%);
+    --ctp-mocha-surface2: hsl(233, 12%, 39%);
+    --ctp-mocha-surface1: hsl(234, 13%, 31%);
+    --ctp-mocha-surface0: hsl(237, 16%, 23%);
+    --ctp-mocha-base: hsl(240, 21%, 15%);
+    --ctp-mocha-mantle: hsl(240, 21%, 12%);
+    --ctp-mocha-crust: hsl(240, 23%, 9%);
+}
